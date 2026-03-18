@@ -1,6 +1,6 @@
 {
   "name": "jiaodian-human-generator",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "数字人生成 CLI 工具，输入 MP3/MP4 地址和文字，调用后端 API 生成数字人视频",
   "type": "python",
   "script": "scripts/jiaodian_human_generator.py",

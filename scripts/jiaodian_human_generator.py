@@ -15,8 +15,8 @@ import time
 import sys
 import json
 
-# API_ENDPOINT = "https://yunji.focus-jd.cn/api/skill/lin/test"
-API_ENDPOINT = "http://localhost:8564"
+API_ENDPOINT = "https://yunji.focus-jd.cn"
+#API_ENDPOINT = "http://localhost:8564"
 
 def prompt(message):
     print(f"\n{message}", end='')
